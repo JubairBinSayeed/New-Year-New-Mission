@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Merriweather:wght@700&display=swap');
+.A{
+    font-family: 'Merriweather', serif;
+    color: whitesmoke;
+    padding-top: 50px;
+    text-align: center;
+    background-image:url(B9A1-New-Year-New-Mission-main/resources/Banner\ Image.png);
+    background-repeat:no-repeat ;
+    padding-top: 30px;
+    padding-left: 230px;
+    padding-right: 400px;
+    padding-bottom: 144px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 100px;
+    margin-left: 500px; 
+    margin-right: auto;
+    width: 40%;
+    height: 200%;
+    border-radius: 16px 16px 16px 16px;
+    display: block;
+    margin-top: 50px;
+}
+#Year{
+    font-size: 30px;
+    font-weight: 400;
+    padding-top: 30px;
+}
+.B{
+    font-family: 'Inter', sans-serif;
+    font-size: 100px;
+    padding-top: auto;
+    padding-bottom: auto;
+    padding-left: 950px;
+    padding-right: auto;
+    color: red;
+}
+#subtitle{
+    font-family: 'Inter', sans-serif;
+    font-size: 50px;
+}
