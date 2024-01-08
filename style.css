@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Merriweather:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
 .A{
     font-family: 'Merriweather', serif;
     color: whitesmoke;
     padding-top: 50px;
     text-align: center;
-    background-image:url(B9A1-New-Year-New-Mission-main/resources/Banner\ Image.png);
+    background-image: url(Banner\ Image.png);
     background-repeat:no-repeat ;
     padding-top: 30px;
     padding-left: 230px;
@@ -29,14 +30,33 @@
 }
 .B{
     font-family: 'Inter', sans-serif;
-    font-size: 100px;
+    font-size: 88px;
     padding-top: auto;
     padding-bottom: auto;
     padding-left: 950px;
     padding-right: auto;
     color: red;
+    font-weight: 700;
 }
 #subtitle{
     font-family: 'Inter', sans-serif;
-    font-size: 50px;
+    font-size: 20px;
+    color: red;
+    padding-top: auto;
+    padding-bottom: auto;
+    padding-left: 970px;
+    padding-right: auto; 
+}
+#subtitle2{
+    font-family:'Inter', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: auto;
+    padding-bottom: auto;
+    padding-left: 975px;
+    padding-right: auto;
+}
+
+.new-year-image{
+    
 }
