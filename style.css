@@ -148,3 +148,18 @@
     margin-top: auto;
     margin-left: 1100px;
 }
+.fire-works{
+    display: block;
+    display: flex;
+    border: 10px;
+    border-radius: 10px ;
+    background-image: url(red\ circle.png);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.C{
+    padding-top: 10px;
+    padding-bottom: auto;
+    padding-left: auto;
+    padding-right: auto;
+}
