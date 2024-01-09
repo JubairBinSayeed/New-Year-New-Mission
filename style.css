@@ -151,9 +151,8 @@
 .fire-works{
     display: block;
     display: flex;
-    border: 10px;
-    border-radius: 10px ;
-    background-image: url(red\ circle.png);
+    border: 10px solid red;
+    border-radius: 500px ;
     background-repeat: no-repeat;
     text-align: center;
 }
@@ -162,4 +161,13 @@
     padding-bottom: auto;
     padding-left: auto;
     padding-right: auto;
+}
+.footer{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    border-radius: 5px;
+    background: black;
+    border:0;
+    color: white;
 }
