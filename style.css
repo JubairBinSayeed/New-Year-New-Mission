@@ -6,6 +6,7 @@
     color: whitesmoke;
     padding-top: 50px;
     text-align: center;
+    background-image: url(Black2.png);
     background-image: url(Banner\ Image.png);
     background-repeat:no-repeat ;
     padding-top: 30px;
@@ -113,4 +114,37 @@
     top: 2300px;
     left:400px;
     color: white;
+}
+.OK{
+    padding-top: 500px;
+    padding-bottom: 500px;
+    padding-left: auto;
+    padding-right: auto;
+}
+.timing{
+    font-family:'Inter', sans-serif;
+    padding-left: 700px;
+    padding-top: 120px;
+    margin-top: 100px;
+    padding-bottom: 200px;
+    background-image: url(pink\ gradient.jpg);
+    margin-left: 300px;
+    margin-right: 300px;
+    left: 200px;
+    border: 10px;
+    border-radius: 10px;
+}
+.Join-button{
+    font-family:'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    border: 150px;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 35px;
+    padding-right:35px;
+    margin-top: auto;
+    margin-left: 1100px;
 }
